@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ben oDesign
+- 👋 Hi, I’m [@Ben oDesign]
+- 🇫🇷 A French designer and developper
 - 👀 I'm interested in responsible web and more specifically inclusion and sustainability
 - 💚 I'm interested in the design and development (front-end)
 - 🌱 I’m currently learning to be better
